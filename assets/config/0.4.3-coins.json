@@ -510,7 +510,7 @@
       "https://btczexplorer.blockhub.info/"
     ],
     "type": "UTXO",
-    "active": false,
+    "active": true,
     "currently_enabled": false
   },
   "BCH": {
